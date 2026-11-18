@@ -1,8 +1,0 @@
-# Versions recorded from the tested MoviePilot 3.2.6 deployment.
-playwright==1.62.0
-cloakbrowser==0.6.5
-ddddocr==1.6.1
-onnxruntime==1.31.1
-opencv-python-headless==5.0.0.93
-numpy==2.5.4
-pillow==13.0.0
