@@ -1,0 +1,13 @@
+{
+  "CustomSiteLogin": {
+    "name": "自定义网站自动登录",
+    "description": "CookieCloud 登录与奖励核验：色花堂、Chiphell、颠影签到及每日转盘。",
+    "version": "1.5.6",
+    "icon": "mdi-web-check",
+    "author": "local",
+    "level": 2,
+    "history": {
+      "v1.5.6": "修正色花堂提示字分割漏检；登录失败不占签到轮数，保留签到结果和奖励核验。"
+    }
+  }
+}
