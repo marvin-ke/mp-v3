@@ -1,0 +1,17 @@
+{
+  "mac": {
+    "key": "",
+    "password": ""
+  },
+  "sites": {
+    "sehuatang": {
+      "expected_uid": "0"
+    },
+    "chiphell": {
+      "expected_uid": "0"
+    },
+    "dian115": {
+      "expected_uid": "0"
+    }
+  }
+}

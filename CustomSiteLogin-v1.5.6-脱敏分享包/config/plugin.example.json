@@ -1,0 +1,16 @@
+{
+  "enabled": false,
+  "enabled_sites": [],
+  "notify": false,
+  "sehuatang_checkin": false,
+  "dian115_wheel": false,
+  "dian115_signin_mode": "normal",
+  "mac_key": "",
+  "mac_password": "",
+  "sehuatang_cron": "43 9,21 * * *",
+  "sehuatang_proxy": true,
+  "chiphell_cron": "37 9,21 * * *",
+  "chiphell_proxy": false,
+  "dian115_cron": "17 9,21 * * *",
+  "dian115_proxy": true
+}
